@@ -1,0 +1,11 @@
+C:\Users\Ramile\source\repos\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.exe
+C:\Users\Ramile\source\repos\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.deps.json
+C:\Users\Ramile\source\repos\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.runtimeconfig.json
+C:\Users\Ramile\source\repos\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.runtimeconfig.dev.json
+C:\Users\Ramile\source\repos\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.dll
+C:\Users\Ramile\source\repos\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.pdb
+C:\Users\Ramile\source\repos\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.csprojAssemblyReference.cache
+C:\Users\Ramile\source\repos\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.AssemblyInfoInputs.cache
+C:\Users\Ramile\source\repos\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.AssemblyInfo.cs
+C:\Users\Ramile\source\repos\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.dll
+C:\Users\Ramile\source\repos\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.pdb
