@@ -1,4 +1,4 @@
-Exercise taken from the full C # Course - OOP:
+Exercise taken from the full C # Course - OOP (References: https://github.com/acenelio/composition1-csharp)
 
 Read the data of a worker with "N" contracts ("N" provided by the user). Then, request the user per month and show what the employee's salary was in that month.
 
